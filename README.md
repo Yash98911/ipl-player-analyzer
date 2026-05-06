@@ -5,7 +5,6 @@ An interactive data analytics dashboard built on
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Live-red)
-![XGBoost](https://img.shields.io/badge/XGBoost-87.9%25-green)
 
 ## 🔗 Live Demo
 👉 [Click here to open the app](<https://ipl-player-analyzer-t77x2um4gyodxknd66qhwb.streamlit.app/>)
